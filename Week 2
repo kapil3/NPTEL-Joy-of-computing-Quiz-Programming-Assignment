@@ -1,0 +1,19 @@
+# Week 2 Programming Assignment
+#Programming Assignment-2: Addition
+
+x,y = input().split(" ")
+x = int(x)
+y = int(y)
+
+print(x+y)
+
+
+#Programming Assignment-3: Small
+x,y = input().split(" ")
+x = int(x)
+y = int(y)
+
+if(x<y):
+    print(x)
+else:
+    print(y)
